@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "brunch": "github:brunch/brunch#d7100b4bf33ae221327c7b9c7258bcc12d7a4407",
+    "brunch": "github:brunch/brunch#afefc5e7643f37918ed037e3862461624e483425",
     "javascript-brunch": "^2.0.0"
   }
 }
